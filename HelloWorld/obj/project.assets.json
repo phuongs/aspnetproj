@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phvu\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\phvu\\source\\repos\\1\\aspnetproj\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\phvu\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\phvu\\source\\repos\\1\\aspnetproj\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\phvu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phvu\\source\\repos\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\phvu\\source\\repos\\1\\aspnetproj\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
